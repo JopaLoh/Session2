@@ -1,0 +1,6 @@
+C:\EKZ\SF2022User{NN}Lib\SF2022User{NN}Lib\bin\Debug\SF2022User{NN}Lib.dll
+C:\EKZ\SF2022User{NN}Lib\SF2022User{NN}Lib\bin\Debug\SF2022User{NN}Lib.pdb
+C:\EKZ\SF2022User{NN}Lib\SF2022User{NN}Lib\obj\Debug\SF2022User{NN}Lib.csproj.AssemblyReference.cache
+C:\EKZ\SF2022User{NN}Lib\SF2022User{NN}Lib\obj\Debug\SF2022User{NN}Lib.csproj.CoreCompileInputs.cache
+C:\EKZ\SF2022User{NN}Lib\SF2022User{NN}Lib\obj\Debug\SF2022User{NN}Lib.dll
+C:\EKZ\SF2022User{NN}Lib\SF2022User{NN}Lib\obj\Debug\SF2022User{NN}Lib.pdb
